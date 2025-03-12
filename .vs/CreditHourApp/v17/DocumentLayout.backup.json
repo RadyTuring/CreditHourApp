@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F48D82D-F35E-4F02-80B4-3BFD9EFA1385}|CreditHourApp.API\\CreditHourApp.API.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F48D82D-F35E-4F02-80B4-3BFD9EFA1385}|CreditHourApp.API\\CreditHourApp.API.csproj|solutionrelative:credithourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\callapiservices\\restsharpcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\callapiservices\\restsharpcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\callapiservices\\httpclientcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\callapiservices\\httpclientcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\callapiservices\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\callapiservices\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|d:\\temp\\group 14\\project\\credithourapp\\credithourapp.ui\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44C20D-D0D3-4141-8483-69EED157A0DD}|CreditHourApp.UI\\CreditHourApp.UI.csproj|solutionrelative:credithourapp.ui\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.API\\Program.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.API\\Program.cs",
+              "RelativeToolTip": "CreditHourApp.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:58:59.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\Program.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\Program.cs",
+              "RelativeToolTip": "CreditHourApp.UI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:46:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestSharpCrudService.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\RestSharpCrudService.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\CallApiServices\\RestSharpCrudService.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\RestSharpCrudService.cs",
+              "RelativeToolTip": "CreditHourApp.UI\\CallApiServices\\RestSharpCrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:43:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\appsettings.json",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\appsettings.json",
+              "RelativeToolTip": "CreditHourApp.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T08:42:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpClientCrudService.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\HttpClientCrudService.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\CallApiServices\\HttpClientCrudService.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\HttpClientCrudService.cs",
+              "RelativeToolTip": "CreditHourApp.UI\\CallApiServices\\HttpClientCrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:41:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\ICrudService.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\CallApiServices\\ICrudService.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\CallApiServices\\ICrudService.cs",
+              "RelativeToolTip": "CreditHourApp.UI\\CallApiServices\\ICrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:41:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CreditHourApp.UI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Temp\\Group 14\\Project\\CreditHourApp\\CreditHourApp.UI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CreditHourApp.UI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:41:15.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
